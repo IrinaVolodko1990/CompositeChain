@@ -1,0 +1,4 @@
+2021-11-16 22:52:32 [main] ERROR epam.composite_chain.reader.impl.CustomReaderImpl:23 - File main\resources\data\text.txt not found
+2021-11-16 22:52:32 [main] ERROR epam.composite_chain.reader.impl.CustomReaderImpl:23 - File main\resources\data\text.txt not found
+2021-11-22 11:14:04 [main] ERROR volodko.epam.composite_chain.entity.Symbol:44 - Unsupported operation with symbol
+2021-11-22 11:14:04 [main] ERROR volodko.epam.composite_chain.entity.Symbol:44 - Unsupported operation with symbol
